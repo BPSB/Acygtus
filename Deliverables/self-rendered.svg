@@ -10,8 +10,8 @@
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="self-rendered.svg"
    inkscape:export-filename="/home/wrzlprmft/Acygtus/Deliverables/self-rendered.png"
-   inkscape:export-xdpi="105.756"
-   inkscape:export-ydpi="105.756"
+   inkscape:export-xdpi="222.31726"
+   inkscape:export-ydpi="222.31726"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,11 +32,11 @@
      fit-margin-bottom="1"
      lock-margins="true"
      inkscape:zoom="5.12"
-     inkscape:cx="70.214844"
-     inkscape:cy="9.765625"
-     inkscape:window-width="1916"
+     inkscape:cx="58.398438"
+     inkscape:cy="40.820313"
+     inkscape:window-width="636"
      inkscape:window-height="1057"
-     inkscape:window-x="0"
+     inkscape:window-x="1280"
      inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -58,11 +58,11 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text2100"
-       style="font-size:29.3333px;line-height:25px;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2102);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+       style="font-size:29.3333px;line-height:25px;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2102);fill:#780000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"><tspan
          x="76.201172"
          y="216.92838"
-         id="tspan13348"><tspan
-           style="font-family:Acygtus;-inkscape-font-specification:Acygtus;fill:#000000;stroke:none"
-           id="tspan13346">ACYGTUS</tspan></tspan></text>
+         id="tspan43723"><tspan
+           style="font-family:Acygtus;-inkscape-font-specification:Acygtus"
+           id="tspan43721">ACYGTUS</tspan></tspan></text>
   </g>
 </svg>
