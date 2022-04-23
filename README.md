@@ -27,7 +27,7 @@ Of course, hope is that some benefits arise from habit.
 
 ### Design principles
 
-* Opposing bases _(G_ vs. _C_ and _A_ vs. _T/U)_ differ in having ascenders/descenders.
+* Complementary bases _(G_ vs. _C_ and _A_ vs. _T/U)_ differ in having ascenders/descenders.
 * _C_ and _G_ are clearly distinguishable beyond vertical offset.
 * Monospace enables easy alignment of different sequences.
 * Metrics like character width, stem size, and ascender size are almost identical to those of [Deja Vu Sans Mono](https://en.wikipedia.org/wiki/DejaVu_fonts). Thus Acygtus should directly harmonise with that typeface and similar ones (Bitstream Vera).
