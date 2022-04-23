@@ -1,0 +1,86 @@
+SplineFontDB: 3.2
+FontName: Acygtus-Regular
+FullName: Acygtus Regular
+FamilyName: Acygtus
+Weight: Regular
+Copyright: Copyright (c) 2022, Gerrit Ansmann
+UComments: "2022-4-22: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+StrokeWidth: 500
+ItalicAngle: 0
+UnderlinePosition: -218
+UnderlineWidth: 170
+Ascent: 1556
+Descent: 492
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 373 144822053 5952020]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1650622287
+ModificationTime: 1650713565
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 1556
+OS2TypoAOffset: 1
+OS2TypoDescent: -492
+OS2TypoDOffset: 1
+OS2TypoLinegap: 410
+OS2WinAscent: 1901
+OS2WinAOffset: 1
+OS2WinDescent: 483
+OS2WinDOffset: 1
+HheadAscent: 1901
+HheadAOffset: 1
+HheadDescent: -483
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 49 7 6
+BeginPrivate: 6
+StdHW 5 [170]
+StemSnapH 5 [170]
+StdVW 5 [170]
+StemSnapV 5 [170]
+BlueValues 37 [-469 -436 -32 0 1120 1167 1556 1584]
+BlueFuzz 2 47
+EndPrivate
+Grid
+0 -436 m 1
+ 1233 -436 l 1025
+1105 0 m 17
+ 1105 1556 l 1025
+129 0 m 17
+ 129 1556 l 1025
+0 0 m 1
+ 1233 1120 l 17
+ 0 1120 l 1
+ 1233 0 l 1049
+1233 0 m 9
+ 0 0 l 17
+ 1233 0 l 9
+0 1556 m 1
+ 1233 1556 l 1025
+1233 490 m 9
+ 0 490 l 17
+ 0 660 l 1
+ 1233 660 l 1
+ 1233 490 l 9
+EndSplineSet
+TeXData: 1 0 0 631296 315648 210432 573440 -1048576 210432 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

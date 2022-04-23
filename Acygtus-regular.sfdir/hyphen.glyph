@@ -1,0 +1,17 @@
+StartChar: hyphen
+Encoding: 45 45 17
+Width: 1233
+VWidth: 1992
+Flags: W
+HStem: 490 170<129 1105>
+LayerCount: 2
+Fore
+SplineSet
+1105 490 m 9,0,-1
+ 129 490 l 1,1,-1
+ 129 660 l 1,2,-1
+ 1105 660 l 5,3,-1
+ 1105 490 l 9,0,-1
+EndSplineSet
+Validated: 1
+EndChar
