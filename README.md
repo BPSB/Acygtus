@@ -1,6 +1,8 @@
 *This is work in progress. Expect nothing.*
 
-# Acygtus
+![Acygtus](https://github.com/BPSB/Acygtus/blob/main/Deliverables/self-rendered.png?raw=true)
+
+[Download link](https://github.com/BPSB/Acygtus/blob/main/Deliverables/Acygtus-Regular.otf?raw=true)
 
 ### Why and what?
 
