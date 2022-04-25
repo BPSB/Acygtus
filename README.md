@@ -35,5 +35,5 @@ Everybody can instantly read it.
 ### Why not use colour?
 
 Another approach to this issue is using different colours for the different bases.
-While this is all nice and proper, colour cannot be used for other illustrative purposses anymore.
+While this is all nice and proper, colour cannot be used for other illustrative purposes anymore.
 If colour is not needed to denote something else, both approaches can be combined as well.
