@@ -2,7 +2,7 @@
 
 ![Acygtus](https://github.com/BPSB/Acygtus/blob/main/Deliverables/self-rendered.png?raw=true)
 
-[Download](https://github.com/BPSB/Acygtus/blob/main/Deliverables/Acygtus-Regular.otf?raw=true)
+[Download](https://github.com/BPSB/Acygtus/raw/refs/heads/main/Deliverables/Acygtus-Regular.otf)
 
 ### Why and what?
 
